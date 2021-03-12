@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: Artur.Maschietto
+Built-By: artur.maschietto
 Build-Jdk: 14.0.2
 Implementation-Title: playground
 Implementation-Version: 0.0.1-SNAPSHOT
